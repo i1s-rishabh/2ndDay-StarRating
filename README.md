@@ -1,0 +1,2 @@
+# 2ndDay-StarRating
+Friends, I am excited to inform you all about my 15 days jQuery Challenge. This is the second day of this challenge I have created a Star Rating with cool hover effect with the help of jQuery. It was an incredible experience because I learned some new things as previous one ... to checkout the output click on the link - https://i1s-rishabh.github.io/1stDay-Accordion/  .... so let's move on to the 3rd day
